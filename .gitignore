@@ -1,0 +1,9 @@
+node_modules/
+
+#idea folder
+.idea/
+/.idea/modules.xml
+/.idea/vcs.xml
+
+#build folder
+nohup.out
